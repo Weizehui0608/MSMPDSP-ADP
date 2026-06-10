@@ -3,12 +3,9 @@
 Experimental data for the paper:
 
 > **How to Dynamically Schedule Multiple Knowledge-Intensive Projects Under Uncertainty? An Approximate Dynamic Programming Approach**
-> Hongbo Li, Wei Chen, Zehui Wei, Qingkang Zhu, Xianchao Zhang. *Systems* (submitted).
-
-This repository provides the experimental results that support the tables and figures reported in the paper, released to satisfy the journal's Data Availability requirement.
+> Hongbo Li, Wei Chen, Zehui Wei, Qingkang Zhu, Xianchao Zhang. *Systems* .
 
 ## Contents
-
 `Experimental_Data.xlsx` — a single workbook with the following sheets:
 
 | Sheet | Content |
@@ -34,9 +31,6 @@ This repository provides the experimental results that support the tables and fi
 
 Each main-experiment configuration is averaged over 10 independent test instances. Project arrivals follow a Bernoulli process (probability 0.5); durations are integers in [1, 7] sampled at arrival and held fixed; skill efficiencies are integers in [1, 10].
 
-## Citation
-
-If you use this data, please cite the paper above.
 
 ## Contact
 
