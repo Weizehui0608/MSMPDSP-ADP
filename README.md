@@ -3,7 +3,7 @@
 Experimental data for the paper:
 
 > **How to Dynamically Schedule Multiple Knowledge-Intensive Projects Under Uncertainty? An Approximate Dynamic Programming Approach**
-> Hongbo Li, Wei Chen, Zehui Wei, Qingkang Zhu, Xianchao Zhang. *Systems* .
+> Hongbo Li, Wei Chen, Zehui Wei, Qingkang Zhu, Xianchao Zhang. **Systems** .
 
 ## Contents
 `Experimental_Data.xlsx` — a single workbook with the following sheets:
